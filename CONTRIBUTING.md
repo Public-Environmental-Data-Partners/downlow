@@ -1,4 +1,8 @@
-# Contributing to `downlow`
+# Contributing Guidelines
+
+We love improvements to our tools! PEDP has general [guidelines for contributing](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md) and a [code of conduct](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CODE_OF_CONDUCT.md) for all of our organizational repos.
+
+# Here are some notes specific to downlow
 
 Contributions are welcome, and they are greatly appreciated!
 Every little bit helps, and credit will always be given.
@@ -9,7 +13,7 @@ You can contribute in many ways:
 
 ## Report Bugs
 
-Report bugs at https://github.com/willf/downlow/issues
+Report bugs at https://github.com/Public-Environmental-Data-Partners/downlow/issues
 
 If you are reporting a bug, please include:
 
@@ -33,7 +37,7 @@ downlow could always use more documentation, whether as part of the official doc
 
 ## Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/willf/downlow/issues.
+The best way to send feedback is to file an issue at https://github.com/Public-Environmental-Data-Partners/downlow/issues.
 
 If you are proposing a new feature:
 
